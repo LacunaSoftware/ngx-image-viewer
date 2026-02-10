@@ -1,4 +1,7 @@
-# LacunaImageViewer
+# LacunaImageViewer [Legacy]
+
+> [!Note]
+> This project has been integrated within [Lacuna Material](https://github.com/LacunaSoftware/lacuna-material), please refer to the newer project for pull-requests and fixes.
 
 A fork from [NgxImageViewer](https://github.com/jpilfold/ngx-image-viewer), which is a configurable Angular image viewer component.
 
